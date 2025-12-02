@@ -1,0 +1,72 @@
+# illion – PLANETARIAN
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.60] In a little over 100 years I bet
+[00:09.95] Yes, every single one of us be dead and free
+[00:13.34] What's left will be a bunch of strangers
+[00:16.65] Who doesn't even exist yet
+[00:29.65] 
+[00:19.87] A salt and sugars in the second drawer
+[00:22.57] Just in case, dead nuclear fuels under your step
+[00:25.64] Oh, and don't forget to brush your teeth at night
+[00:28.97] You're in range of every missile heads in this world
+[00:54.97] 
+[00:32.47] Then, have you ever heard of cruel?
+[00:36.18] Have you ever heard revenge?
+[00:39.13] Have you ever heard betrayal?
+[00:42.03] I'm sorry for you to take over
+[00:57.03] 
+[00:45.78] Oh, life is vanishing, vanishing, vanishing
+[00:49.06] This very moment, this moment, this moment
+[00:52.12] Mine is so meaningless, meaningless, meaningless
+[00:55.47] One comes in and one goes out
+[00:58.62] Out of this planet, this planet, this planet
+[01:01.86] Bye goodbye now grandpas and grandmas, I love you
+[01:05.10] Welcome now millions and billions of aliens
+[01:08.27] Which part of life you like to start?
+[01:26.77] 
+[01:18.93] Seven billion of mes and is
+[01:21.96] Not enough to endure this crisis though
+[01:25.36] It's plenty enough hitting running and scramble
+[01:28.71] What are we gifting it to children's son?
+[01:49.21] 
+[01:32.39] I'm a little bit nervous, left you be in charge of my loving household
+[01:35.63] Whenever you drive make sure your seatbelts are securely fastened
+[01:38.62] Please, will you not hesitate to show your love to whom you care
+[01:41.77] To make it all simple, that's the very word who brought you here so
+[02:15.27] 
+[01:45.02] Have you ever heard of one?
+[01:48.03] Have you ever felt that one?
+[01:51.34] Have you ever yet delivered it?
+[01:54.03] To someone, I hope so
+[02:04.53] 
+[01:57.39] Oh, life is vanishing, vanishing, vanishing
+[02:01.09] This very moment, this moment, this moment
+[02:04.49] Mine is so meaningless, meaningless, meaningless
+[02:07.66] One comes in and one goes out
+[02:10.66] Out of this planet, this planet, this planet
+[02:14.14] Bye, goodbye now grandpas and grandmas, I love you
+[02:17.34] Welcome now millions and billions of aliens
+[02:20.54] Which part of life you like to start?
+[02:39.04] 
+[02:46.62] Have you ever heard of one?
+[02:49.57] Have you ever felt that one?
+[02:52.88] Have you ever heard of one?
+[02:56.00] Have you ever felt that one?
+[03:10.00] 
+[02:59.84] Have you ever heard of one?
+[03:02.50] Have you ever felt that one?
+[03:05.97] Have you ever heard of one?
+[03:09.36] Have you ever felt that one?
+[03:23.36] 
+[03:12.27] Oh, life is vanishing, vanishing, vanishing
+[03:15.67] This very moment, this moment, this moment
+[03:18.63] Mine is so meaningless, meaningless, meaningless
+[03:22.10] One comes in and one goes out
+[03:24.63] Out of this planet, this planet, this planet
+[03:27.91] Bye goodbye now grandpas and grandmas, I love you
+[03:31.62] Welcome now millions and billions of aliens
+[03:34.63] Which part of life you like to start?
+```
